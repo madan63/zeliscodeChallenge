@@ -1,0 +1,96 @@
+------------
+The word 'albums' been found
+        albums => al + bums
+Below are the Failed attempts:
+        al + al => alal != albums
+        al + bar => albar != albums
+        al + ely => alely != albums
+        al + be => albe != albums
+        al + foul => alfoul != albums
+        al + con => alcon != albums
+        al + vex => alvex != albums
+        al + here => alhere != albums
+        al + by => alby != albums
+        al + jig => aljig != albums
+        al + saw => alsaw != albums
+        al + tail => altail != albums
+        al + or => alor != albums
+        al + we => alwe != albums
+        al + aver => alaver != albums
+------------
+The word 'barely' been found
+        barely => bar + ely
+Below are the Failed attempts:
+        bar + bar => barbar != barely
+        bar + be => barbe != barely
+        bar + foul => barfoul != barely
+        bar + con => barcon != barely
+        bar + vex => barvex != barely
+        bar + here => barhere != barely
+        bar + by => barby != barely
+        bar + jig => barjig != barely
+        bar + saw => barsaw != barely
+        bar + tail => bartail != barely
+        bar + or => baror != barely
+        bar + we => barwe != barely
+        bar + aver => baraver != barely
+------------
+The word 'befoul' been found
+        befoul => be + foul
+Below are the Failed attempts:
+        be + be => bebe != befoul
+        be + con => becon != befoul
+        be + vex => bevex != befoul
+        be + here => behere != befoul
+        be + by => beby != befoul
+        be + jig => bejig != befoul
+        be + saw => besaw != befoul
+        be + tail => betail != befoul
+        be + or => beor != befoul
+        be + we => bewe != befoul
+        be + aver => beaver != befoul
+------------
+The word 'convex' been found
+        convex => con + vex
+Below are the Failed attempts:
+        con + con => concon != convex
+        con + here => conhere != convex
+        con + by => conby != convex
+        con + jig => conjig != convex
+        con + saw => consaw != convex
+        con + tail => contail != convex
+        con + or => conor != convex
+        con + we => conwe != convex
+        con + aver => conaver != convex
+------------
+The word 'hereby' been found
+        hereby => here + by
+Below are the Failed attempts:
+        here + here => herehere != hereby
+        here + jig => herejig != hereby
+        here + saw => heresaw != hereby
+        here + tail => heretail != hereby
+        here + or => hereor != hereby
+        here + we => herewe != hereby
+        here + aver => hereaver != hereby
+------------
+The word 'jigsaw' been found
+        jigsaw => jig + saw
+Below are the Failed attempts:
+        jig + jig => jigjig != jigsaw
+        jig + tail => jigtail != jigsaw
+        jig + or => jigor != jigsaw
+        jig + we => jigwe != jigsaw
+        jig + aver => jigaver != jigsaw
+------------
+The word 'tailor' been found
+        tailor => tail + or
+Below are the Failed attempts:
+        tail + tail => tailtail != tailor
+        tail + we => tailwe != tailor
+        tail + aver => tailaver != tailor
+------------
+The word 'weaver' been found
+        weaver => we + aver
+Below are the Failed attempts:
+        we + we => wewe != weaver
